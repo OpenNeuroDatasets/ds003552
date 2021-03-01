@@ -1,4 +1,4 @@
-particpant_id	age	biological_sex	cap_size	block_1	block_2	block_3
+participant_id	age	biological_sex	cap_size	block_1	block_2	block_3
 1	24	m	58	Visual	Visual + Vibro	Visual + Vibro + EMS
 2	25	m	56	Visual + Vibro	Visual	Visual + Vibro + EMS
 3	28	m	60	Visual	Visual + Vibro	0
